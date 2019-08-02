@@ -1,3 +1,39 @@
+React(Redux) Todo list
+
+1) index.js with our components (App, Provider) is loading
+2) In App we have 3 subcomponents (<AddTodo /> <VisibleTodoList /> <Footer />)
+<AddTodo /> - Form with input and button
+<VisibleTodoList /> - just get current state and validate visibility
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

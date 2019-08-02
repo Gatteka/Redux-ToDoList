@@ -8,6 +8,30 @@
   pointer-events: none;
 }
 
+button {
+  background-color: #a3d2fb;
+  border-radius: 4px;
+  margin: 5px;
+}
+
+input {
+  border-radius: 4px;
+}
+
+.li-active {
+  border-radius: 4px;
+  background-color: rgba(133, 218, 250, 0.18);
+  width: 12%;
+  margin-top: 1%;
+}
+
+.li-done {
+  border-radius: 4px;
+  background-color: rgba(195, 37, 48, 0.41);
+  width: 12%;
+  margin-top: 1%;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -17,6 +41,10 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.Provider{
+  background-color: #282c34;
 }
 
 .App-link {
